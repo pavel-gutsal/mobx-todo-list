@@ -1,0 +1,19 @@
+.TodoItem {
+  width: 100%;
+  min-height: 100px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+.box {
+  display: flex;
+  gap: 10px;
+}
+
+.descr,
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

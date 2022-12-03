@@ -1,0 +1,13 @@
+.bg-white {
+  background: white;
+}
+
+.form {
+  background: white;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  gap: 40px;
+}
